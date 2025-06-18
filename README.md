@@ -15,28 +15,28 @@ Constantly learning through hands-on projects and internships
 
 ---
 
-## 🚀 Notable Projects
+## Notable Projects
 
-- **📚 Library Management System (Java)**  
+- ** Library Management System (Java)**  
   Console-based CRUD system for borrowing and returning books, with file serialization.
 
-- **🛒 E-Commerce Store (React + Node.js)**  
+- ** E-Commerce Store (React + Node.js)**  
   Built full-stack app with Stripe payment, Redis caching, and 100% order accuracy.
 
-- **💬 Real-Time Chat App**  
+- ** Real-Time Chat App**  
   Real-time messaging using React, Node, Socket.io with user authentication.
 
-- **🧠 Java Quiz Game**  
+- ** Java Quiz Game**  
   CLI-based quiz game with score tracking and replay feature.
 
 ---
 
-## 🏅 Achievements & Interests
+##  Achievements & Interests
 
-- ✅ Completed 4-week internship in **Java Development** at **Pinnacle Labs**
-- ✅ Certified in **AI & ML with Python** and **Data Analytics (Deloitte Forage)**
-- ✅ Participated in KIIT MUN, Kritarth & Chimera 5.0
-- 💡 Interests: AI, backend systems, cybersecurity, full-stack apps
+-  Completed 4-week internship in **Java Development** at **Pinnacle Labs**
+-  Certified in **AI & ML with Python** and **Data Analytics (Deloitte Forage)**
+-  Participated in KIIT MUN, Kritarth & Chimera 5.0
+-  Interests: AI, backend systems, cybersecurity, full-stack apps
 
 ---
 
