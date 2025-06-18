@@ -40,10 +40,10 @@ Constantly learning through hands-on projects and internships
 
 ---
 
-📫 **Connect with me:**
-- 🔗 GitHub: [github.com/kexshavv](https://github.com/kexshavv)
-- 💼 LinkedIn: [linkedin.com/in/kexshavv](https://linkedin.com/in/kexshavv)
+ **Connect with me:**
+- GitHub: [github.com/kexshavv](https://github.com/kexshavv)
+- LinkedIn: [linkedin.com/in/kexshavv](https://linkedin.com/in/kexshavv)
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for stopping by! 
