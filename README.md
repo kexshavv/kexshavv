@@ -1,6 +1,6 @@
 Hello, I'm Shivam Keshav
 
-3rd Year B.Tech CSE Student at KIIT University  
+Final Year B.Tech CSE Student at KIIT University  
 Passionate about backend development, data security, and building scalable systems  
 Constantly learning through hands-on projects and internships
 
